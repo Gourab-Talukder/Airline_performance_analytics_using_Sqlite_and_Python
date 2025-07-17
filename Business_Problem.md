@@ -1,5 +1,3 @@
-## **Airlines Occupancy & Profitability Analysis Project**
-
 ### **Business Problem:**
 
 Our airline company operates a diverse fleet, ranging from small jets to medium-range aircraft, with a long-standing reputation for delivering premium air transportation services. Despite our dedication to safety, comfort, and efficiency, the company’s **profitability is under mounting pressure** due to **external economic and regulatory constraints**.
