@@ -47,8 +47,6 @@ The airline operates a variety of aircraft, providing domestic and regional serv
 ## 📚 Files Included
 
 * `analysis_report.md`: Full detailed project report with SQL and Python logic.
-* `queries/`: Folder containing reusable SQL queries.
-* `notebooks/`: Jupyter notebook version of the full analysis.
 * `visuals/`: All generated plots and charts.
 
 ---
