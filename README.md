@@ -1,5 +1,3 @@
-**README.md**
-
 # 🌐 Airlines Occupancy & Profitability Analysis Project
 
 This project analyzes airline operations using SQL and Python (pandas, matplotlib, seaborn) on the `travel.sqlite` database. The objective is to uncover insights that can help improve occupancy rates, optimize fleet usage, and enhance revenue generation for flights.
